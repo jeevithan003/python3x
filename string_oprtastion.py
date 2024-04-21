@@ -1,0 +1,10 @@
+name="kylian mbappe"
+print(len(name))
+print(name.capitalize())
+print(name.find("k"))
+print(name.index("e"))
+print(name.isalnum())
+print(name.isdigit())
+print(name.lower())
+print(name.replace(" "," luttin "))
+print(name.title())
